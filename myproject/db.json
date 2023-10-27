@@ -1,0 +1,125 @@
+{
+      "products" : [
+        {
+            "id": 1,
+            "title": "Sapphire Dreamcatcher",
+            "price": 49.99,
+            "description": "Embrace the magic of the night with the Sapphire Dreamcatcher, a celestial masterpiece that captures your dreams in shimmering blue hues."
+        },
+        {
+            "id": 2,
+            "title": "Whispering Willow Lamp",
+            "price": 59.95,
+            "description": "The Whispering Willow Lamp bathes your space in a gentle, leafy glow, as if a forest nymph is whispering secrets in the moonlight."
+        },
+        {
+            "id": 3,
+            "title": "Ethereal Elixir Tea Set",
+            "price": 34.99,
+            "description": "Indulge in the Ethereal Elixir Tea Set and savor otherworldly flavors while the teapot releases delicate aromatic wisps, transporting you to a realm of enchantment."
+        },
+        {
+            "id": 4,
+            "title": "Stardust Serenade Headphones",
+            "price": 129.99,
+            "description": "Let the Stardust Serenade Headphones serenade your senses with crystal-clear sound, making every note feel like a sprinkle of stardust in your ears."
+        },
+        {
+            "id": 5,
+            "title": "Luminous Lagoon Scarf",
+            "price": 24.95,
+            "description": "Wrap yourself in the Luminous Lagoon Scarf, a piece of the ocean's glow that keeps you warm with its aquatic embrace and shimmering threads."
+        },
+        {
+            "id": 6,
+            "title": "Celestial Symphony Violin",
+            "price": 799.95,
+            "description": "The Celestial Symphony Violin will enchant your soul with its ethereal melodies, as if it's a celestial instrument touched by the heavens themselves."
+        },
+        {
+            "id": 7,
+            "title": "Dragonfire Espresso Machine",
+            "price": 199.99,
+            "description": "The Dragonfire Espresso Machine delivers a caffeine burst like no other, as if a dragon breathes life into each cup, with a fiery and invigorating taste."
+        },
+        {
+            "id": 8,
+            "title": "Aurora Borealis Blanket",
+            "price": 39.99,
+            "description": "Drape yourself in the Aurora Borealis Blanket, a cozy masterpiece that mimics the dancing colors of the Northern Lights, bringing warmth and wonder to your nights."
+        },
+        {
+            "id": 9,
+            "title": "Moonlit Mosaic Puzzle",
+            "price": 19.99,
+            "description": "Piece together the Moonlit Mosaic Puzzle, and watch as a mysterious moonlit scene unfolds, revealing secrets hidden in the luminous pieces."
+        },
+        {
+            "id": 10,
+            "title": "Galactic Gourmet Cookbook",
+            "price": 49.95,
+            "description": "Embark on a culinary journey with the Galactic Gourmet Cookbook, where each recipe is a cosmic adventure, taking your taste buds to the far reaches of the universe."
+        },
+        {
+            "id": 11,
+            "title": "Enchanted Echo Wireless Speaker",
+            "price": 89.99,
+            "description": "The Enchanted Echo Wireless Speaker fills your room with enchanting melodies, as if the music is carried on the whispers of forest spirits."
+        },
+        {
+            "id": 12,
+            "title": "Pandora's Paintbrush Art Set",
+            "price": 59.99,
+            "description": "Unleash your inner artist with Pandora's Paintbrush Art Set, a collection of colors that lets you create masterpieces, as if you hold the key to Pandora's box of creativity."
+        },
+        {
+            "id": 13,
+            "title": "Tranquil Tempest Massage Chair",
+            "price": 699.95,
+            "description": "The Tranquil Tempest Massage Chair is a gentle storm of relaxation, caressing your senses with its soothing touch and rhythmic waves of comfort."
+        },
+        {
+            "id": 14,
+            "title": "Crimson Nebula Perfume",
+            "price": 49.99,
+            "description": "Evoke the essence of a distant crimson nebula with this exquisite perfume, an otherworldly fragrance that lingers like a celestial embrace."
+        },
+        {
+            "id": 15,
+            "title": "Nebula Nightshade Bedspread",
+            "price": 69.99,
+            "description": "Drift into the dreamy depths of the Nebula Nightshade Bedspread, where the cosmos cradles you in its cosmic embrace, turning your sleep into a celestial journey."
+        },
+        {
+            "id": 16,
+            "title": "Labyrinth of Light Candle Set",
+            "price": 29.95,
+            "description": "Illuminate your space with the Labyrinth of Light Candle Set, a mystical experience where every flame tells a story, guiding you through the labyrinth of your imagination."
+        },
+        {
+            "id": 17,
+            "title": "Voyage of the Velvet Airship",
+            "price": 179.99,
+            "description": "Embark on the Voyage of the Velvet Airship, a luxurious travel companion that carries you through the sky with the soft caress of velvet and the promise of adventure."
+        },
+        {
+            "id": 18,
+            "title": "Astral Alchemy Tea Infuser",
+            "price": 14.95,
+            "description": "The Astral Alchemy Tea Infuser transforms your tea rituals into magical brews, as if the stars themselves dance in your cup, infusing it with cosmic flavors."
+        },
+        {
+            "id": 19,
+            "title": "Starlight Sonata Umbrella",
+            "price": 29.99,
+            "description": "Shield yourself from the rain with the Starlight Sonata Umbrella, a symphony of stars that lights your way and keeps you dry in style."
+        },
+        {
+            "id": 20,
+            "title": "Crystal Cascade Chandelier",
+            "price": 249.95,
+            "description": "Adorn your living space with the Crystal Cascade Chandelier, a breathtaking waterfall of crystals that shimmers and cascades like a sparkling river of dreams."
+        }
+    ]
+    
+}
